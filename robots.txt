@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /admin_*.php
+Disallow: /api_*.php
+
+Sitemap: https://smadu.sch.id/sitemap.xml
